@@ -31,4 +31,4 @@ Have questions or want to learn more about our services? Feel free to reach out 
 
 ---
 
-Increase the flow of customers and sales for your business with digital marketing & growth solutions offered by WebStudio. Visit [our website](./index.html) for more information.
+Increase the flow of customers and sales for your business with digital marketing & growth solutions offered by WebStudio. Visit [our website](https://maes-tr0.github.io/goit-markup-hw-01/) for more information.
